@@ -9,3 +9,9 @@ sysctl -w vm.max_map_count=262144
 docker-compose up -d
 
 docker ps 
+
+# Abrir en el navegador
+
+http://localhost:5000   
+
+"user y pass por defecto: admin"
