@@ -12,6 +12,6 @@ docker ps
 
 # Abrir en el navegador
 
-http://localhost:9000   
+http://localhost:5000   
 
 "user y pass por defecto: admin"
