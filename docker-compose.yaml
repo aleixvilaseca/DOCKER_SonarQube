@@ -3,6 +3,8 @@ version: "3"
 services:
   sonarqube:
     image: sonarqube:8.9.9-community
+    mem_limit: 3G
+    mem_reservation: 3G
     expose:
       - 9000
     ports:

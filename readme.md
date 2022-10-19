@@ -1,4 +1,4 @@
-# Comandos para ejecutar en PowerShell antes de crear los contenedores
+# Comandos para ejecutar en PowerShell antes de crear los contenedores. 
 
 wsl -d docker-desktop
 
@@ -12,6 +12,6 @@ docker ps
 
 # Abrir en el navegador
 
-http://localhost:5000   
+http://localhost:9000   
 
 "user y pass por defecto: admin"
